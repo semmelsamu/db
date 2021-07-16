@@ -3,7 +3,7 @@
 /**
  * db
  * Short debugging function
- * Outputs contents of a variable in readable HTML
+ * Outputs the contents of a variable in readable HTML
  *
  * @author Samuel Kroiß
  * @version 0.1
