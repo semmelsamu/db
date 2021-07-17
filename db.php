@@ -8,7 +8,7 @@
  * @author Samuel Kroiß
  * @version 1.2
  * 
- * @param string $var The variable
+ * @param string $variable The variable
  * @param bool $exit = false States if the script should be terminated after the variable is printed
  * @return void
  */
