@@ -1,7 +1,6 @@
 <?php 
 
 /**
- * db
  * Short debugging function
  * Outputs the contents of a variable in readable HTML
  *
